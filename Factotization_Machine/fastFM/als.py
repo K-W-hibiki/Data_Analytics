@@ -1,7 +1,7 @@
 # Author: Immanuel Bayer
 # License: BSD 3 clause
 
-import ffm
+from fastFM import ffm
 import numpy as np
 from sklearn.base import RegressorMixin
 from .validation import check_consistent_length, check_array
