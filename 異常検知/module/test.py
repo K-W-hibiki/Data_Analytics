@@ -1,1 +1,3 @@
-print("hello")
+
+def sample(_str):
+    print("hello")
