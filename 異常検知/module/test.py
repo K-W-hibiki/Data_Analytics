@@ -1,3 +1,4 @@
 
 def sample(_str):
-    print("hello")
+    print("_str")
+    
